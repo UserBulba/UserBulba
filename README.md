@@ -6,6 +6,7 @@ My name is Piotr and I'm a DevOps engineer. I'm from Poland, living in the vicin
 - 🌱 I’m currently learning:
 
     ![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/Learning-Kubernetes-007ACC?style=flat-square&logo=kubernetes&logoColor=white)
     ![Microsoft Azure](https://img.shields.io/badge/Learning-Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
 - 📫 How to reach me: 
@@ -24,10 +25,12 @@ My name is Piotr and I'm a DevOps engineer. I'm from Poland, living in the vicin
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Ansible](https://img.shields.io/badge/Ansible-DC143C?style=flat-square&logo=ansible)
 ![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=Jenkins)
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-007ACC??style=flat-square&logo=azurepipelines)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-007ACC?style=flat-square&logo=azurepipelines)
+![Vagrant](https://img.shields.io/badge/Vagrant-007ACC?style=flat-square&logo=vagrant)
 
 ![Grafana](https://img.shields.io/badge/Grafana-FFFFFF?style=flat-square&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-FF8C00?style=flat-square&logo=Prometheus)
+![Zabbix](https://img.shields.io/badge/Zabbix-DC143C?style=flat-square)
 
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-007ACC?style=flat-square&logo=azuredevops)
@@ -35,4 +38,7 @@ My name is Piotr and I'm a DevOps engineer. I'm from Poland, living in the vicin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-FCA121?style=flat-square&logo=proxmox)
+![Hyper-V](https://img.shields.io/badge/Hyper-007ACC?style=flat-square&logo=microsoft)
 
+![Fortinet](https://img.shields.io/badge/Fortinet-black?style=flat-square&logo=fortinet)
+![Aruba](https://img.shields.io/badge/Aruba-FCA121?style=flat-square&logo=HP)
