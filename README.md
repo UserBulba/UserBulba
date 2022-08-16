@@ -8,7 +8,7 @@ My name is Piotr and I'm a DevOps engineer. I'm from Poland, living in the vicin
     ![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/Learning-Kubernetes-007ACC?style=flat-square&logo=kubernetes&logoColor=white)
     ![Microsoft Azure](https://img.shields.io/badge/Learning-Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-    ![Consul](https://img.shields.io/badge/Consul-DC143C?style=flat-square&logo=consul)
+    ![Consul](https://img.shields.io/badge/Learning-Consul-DC143C?style=flat-square&logo=consul)
 
 - 📫 How to reach me: 
 
