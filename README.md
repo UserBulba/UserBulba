@@ -19,27 +19,30 @@ My name is Piotr and I'm a DevOps engineer. I'm from Poland, living in the vicin
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat-square&logo=pycharm)
+![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=Jenkins)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-007ACC?style=flat-square&logo=azurepipelines)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FFFFFF?style=flat-square&logo=argo)
+
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-007ACC?style=flat-square&logo=azuredevops)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ![Docker](https://img.shields.io/badge/Docker-007ACC?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Ansible](https://img.shields.io/badge/Ansible-DC143C?style=flat-square&logo=ansible)
-![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=Jenkins)
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-007ACC?style=flat-square&logo=azurepipelines)
+
 ![Vagrant](https://img.shields.io/badge/Vagrant-007ACC?style=flat-square&logo=vagrant)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Grafana](https://img.shields.io/badge/Grafana-FFFFFF?style=flat-square&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-FF8C00?style=flat-square&logo=Prometheus)
 ![Zabbix](https://img.shields.io/badge/Zabbix-DC143C?style=flat-square)
 
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-007ACC?style=flat-square&logo=azuredevops)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
 ![Proxmox](https://img.shields.io/badge/Proxmox-FCA121?style=flat-square&logo=proxmox)
 ![Hyper-V](https://img.shields.io/badge/Hyper-007ACC?style=flat-square&logo=microsoft)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat-square&logo=pycharm)
 
 ![Fortinet](https://img.shields.io/badge/Fortinet-black?style=flat-square&logo=fortinet)
 ![Aruba](https://img.shields.io/badge/Aruba-FCA121?style=flat-square&logo=HP)
