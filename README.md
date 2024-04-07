@@ -6,9 +6,6 @@ My name is Piotr and I'm a DevOps engineer. I'm from Poland, living in the vicin
 - 🌱 I’m currently learning:
 
     ![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)
-    ![Kubernetes](https://img.shields.io/badge/Learning-Kubernetes-007ACC?style=flat-square&logo=kubernetes&logoColor=white)
-    ![Microsoft Azure](https://img.shields.io/badge/Learning-Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-    ![Redis](https://img.shields.io/badge/Learning-Redis-DC382D?style=flat-square&logo=redis)
 
 - 📫 How to reach me: 
 
@@ -16,15 +13,20 @@ My name is Piotr and I'm a DevOps engineer. I'm from Poland, living in the vicin
     
 ## 🔧 Technologies & Tools
 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-2560E0?style=flat-square&logo=azuredevops)
+![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat-square&logo=azure-pipelines)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FFFFFF?style=flat-square&logo=argo)
+
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=Jenkins)
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-007ACC?style=flat-square&logo=azurepipelines)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FFFFFF?style=flat-square&logo=argo)
 
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-007ACC?style=flat-square&logo=azuredevops)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ![Docker](https://img.shields.io/badge/Docker-007ACC?style=flat-square&logo=docker)
