@@ -2,7 +2,7 @@
 
 Hey there! I'm Piotr, a DevOps enthusiast from Poland, near Krakow, with a heart for automation, optimization, and everything in-between.
 
-- 🏢 I'm currently contributing to **OTCF** as a DevOps engineer.
+- 🏢 I'm currently working for **OTCF** as a DevOps engineer.
 - 🌱 I'm on a learning journey with **Terraform** and **AWS** to deepen my expertise in infrastructure as code and cloud services, motivated by my current project of scaling a large e-commerce platform.
 
     ![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)
