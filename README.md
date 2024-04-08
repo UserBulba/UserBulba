@@ -10,9 +10,9 @@ Hey there! I'm Piotr, a DevOps enthusiast from Poland, near Krakow, with a heart
 
 - 📫 How to reach me:
 
-    * [![Linkedin Badge](https://img.shields.io/badge/-Piotr-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmiecik-piotr-62920b125//)](https://www.linkedin.com/in/kmiecik-piotr-62920b125//)
+  - [![Linkedin Badge](https://img.shields.io/badge/-Piotr-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmiecik-piotr-62920b125//)](https://www.linkedin.com/in/kmiecik-piotr-62920b125//)
 
-    * [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=plastic&logo=internet-explorer&logoColor=white&link=https://kmiecik.it)](https://kmiecik.it)
+  - [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=plastic&logo=internet-explorer&logoColor=white&link=https://kmiecik.it)](https://kmiecik.it)
 
 ## 🔧 Currently working with
 
